@@ -1,0 +1,19 @@
+Install to VS Code
+1.All Autocomplete
+2.Auto Close Tag
+3.Auto Complete Tag
+4.Auto Rename Tag
+5.Prettier Code Formatter
+6.Code Runner
+7.JavaScript ES-6
+8.Live Server
+9.VSCode Icons
+10.Brackets Pair Colorizer
+11.JSHints
+----
+1.One Dark Pro
+2.Path Intellisense
+3.Import Cost
+4.GitLens
+5.GitKraken
+6.ES7+React/Redux
